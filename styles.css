@@ -34,6 +34,8 @@ img {
     background-image: url("img/catflix-plus-cats.png");
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: right;
+    padding: auto;
 }
 
 .container {
